@@ -11,7 +11,6 @@ To install the locker application, download ALL files withing this repository.
 ### Files that can be excluded from the installation:
 
 - README.md
-- LICENSE
 
 ## Usage
 
