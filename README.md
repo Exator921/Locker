@@ -24,6 +24,6 @@ Once the locker is locked you must run the application again and reselect the di
 
 ##
 
-_This application is free use but can not be altered. Redistribution is allowed by the guidelines of the GPL-3.0 license and as long as proper credit is given._
+_This application is free use for the public for personal/private use and public use but can not be altered. Modification to this software is prohibited. Redistribution is allowed as long as proper credit is given to the programs creator._
 
 _© 2024 Exator911_
