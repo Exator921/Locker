@@ -4,24 +4,24 @@
 
 A windows locker app that makes locker folders to hide file's.
 
-## Installation
+## `Installation`
 
 To install the locker application, download ALL files withing this repository.
+> [!NOTE]
+> **Files that can be excluded from the installation:**
+>
+> - [README.md](https://github.com/Exator921/Locker/blob/main/README.md)
 
-### Files that can be excluded from the installation:
-
-- README.md
-
-## Usage
+## `Usage`
 
 Upon running the application it will ask for you to select a directory, IF no locker is present in the directory selected it will prompt you to create one and give it a password to unlock it. Once created you must run the application again and reselect the directory the locker is in to lock it.
 
 Once the locker is locked you must run the application again and reselect the directory the locker is in and give that lockers password to unlock it.
-
-**Multiple lockers can be created but not in the same directory.**
+> [!TIP]
+> **Multiple lockers can be created but not in the same directory.**
 
 ##
+> [!IMPORTANT]
+> _This application is free use for the public for personal/private use and public use but can not be altered. Modification to this software is prohibited. Redistribution is allowed as long as proper credit is given to the programs creator._
 
-_This application is free use for the public for personal/private use and public use but can not be altered. Modification to this software is prohibited. Redistribution is allowed as long as proper credit is given to the programs creator._
-
-_© 2024 Exator911_
+<sub>_© 2024 Exator911_</sub>
